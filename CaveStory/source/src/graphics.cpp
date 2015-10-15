@@ -1,6 +1,6 @@
 #include <SDL.h>
 
-#include "graphics.h"
+#include "../headers/graphics.h"
 
 /* Graphics Class
  * Holds all information dealing with the graphics for the game
