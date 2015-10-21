@@ -39,6 +39,9 @@
     <ClCompile Include="source\src\sprite.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="source\src\animatedsprite.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\headers\game.h">
@@ -54,6 +57,9 @@
       <Filter>source\headers</Filter>
     </ClInclude>
     <ClInclude Include="source\headers\globals.h">
+      <Filter>source\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="source\headers\animatedsprite.h">
       <Filter>source\headers</Filter>
     </ClInclude>
   </ItemGroup>
